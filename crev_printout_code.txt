@@ -1,0 +1,9 @@
+find . -type f \( -name '*.c' -o -name '*.h' \) | sort | while read file; do
+  echo "========== $file =========="
+  nl -ba -n ln -w 3 -s '  ' "$file"
+  echo -e "\n\f\n"
+done > all_code_pretty.txt
+
+
+
+run the above code in the terminal for a print out of all code.
