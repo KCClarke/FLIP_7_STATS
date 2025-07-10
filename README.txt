@@ -2,6 +2,8 @@ This program is based on, and uses the rules and ideas from the game
 FLIP 7, A 2025 game by Eric Olsen.
 
 The purpose of this program is to determine optimal play of the game FLIP 7
+This analysis is intended for informational and discussion purposes only. 
+If there are any concerns regarding intellectual property or other rights, please feel free to reach out directly.
 
 Definitions & Abreviations
     Throughout this project I will use...
